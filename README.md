@@ -1,2 +1,2 @@
 # BMI_Calculate
-E-Commerce Application building by Flutter
+BMI_Calculate Application building by Flutter
